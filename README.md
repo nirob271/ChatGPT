@@ -55,7 +55,5 @@ This project uses the **Google Gemini API** for chat functionality. You’ll nee
 - The node_modules folder was omitted from the repository to reduce the size before uploading it to GitHub.
 - Feel free to modify and adapt the project as per your needs!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
