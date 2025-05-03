@@ -3,7 +3,7 @@
 This project is a ChatGPT clone powered by Google's Gemini API, providing a simple and interactive user interface. The project was built using a template from [Assistant UI](https://assistant-ui.com) and deployed using Vercel.
 
 🌐 Live Demo
-[here](https://chat-gpt-one-pi-43.vercel.app/).
+[Click here to view the live project](https://chat-gpt-one-pi-43.vercel.app/).
 
 ## Features
 
